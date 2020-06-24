@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RoomKotlin</string>
+    <string name="add_word">Aggiungi</string>
 </resources>
